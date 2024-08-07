@@ -18,6 +18,9 @@
   },
   "author": "Safe (https://safe.global)",
   "license": "MIT",
+  "resolutions": {
+    "@safe-global/safe-deployments": "npm:@0xsambtc/safe-deployments@1.37.2-alpha"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.14.5",
