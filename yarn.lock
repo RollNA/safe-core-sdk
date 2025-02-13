@@ -1845,10 +1845,10 @@
   dependencies:
     abitype "^1.0.2"
 
-"@safe-global/safe-deployments@^1.37.1", "@safe-global/safe-deployments@npm:@0xsambtc/safe-deployments@1.37.2-alpha":
+"@safe-global/safe-deployments@^1.37.1", "@safe-global/safe-deployments@npm:@rollna/safe-deployments@1.37.2-alpha":
   version "1.37.2-alpha"
-  resolved "https://registry.yarnpkg.com/@0xsambtc/safe-deployments/-/safe-deployments-1.37.2-alpha.tgz#6836db24cf9fef5c2b95f7b29538966ccea4496d"
-  integrity sha512-OwI8xFouhYPBT+EemPAKT3J6+5x0Xowvi+P+1h4OtR8avzYx35/2Ut/DH+SAZrCNfsB2WsdGh5aFWodmv57VUw==
+  resolved "https://registry.yarnpkg.com/@rollna/safe-deployments/-/safe-deployments-1.37.2-alpha.tgz#8d02fd41b0606674c61085928f592fa804149a33"
+  integrity sha512-heeqI+z2XClw21tK6m02RjG52JWTgXkqWVjlrE7LjrXCI8LumqwNr4uJRNk9WcRqyBCyie4WGyGdTq7QzvyriA==
   dependencies:
     semver "^7.6.2"
 

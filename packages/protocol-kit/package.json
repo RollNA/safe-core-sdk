@@ -1,5 +1,5 @@
 {
-  "name": "@0xsambtc/protocol-kit",
+  "name": "@rollna/protocol-kit",
   "version": "4.0.3",
   "description": "SDK that facilitates the interaction with Safe Smart Accounts",
   "main": "dist/src/index.js",
@@ -37,17 +37,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xsambtc/safe-core-sdk.git"
+    "url": "git+https://github.com/rollna/safe-core-sdk.git"
   },
   "author": "Safe (https://safe.global)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/0xsambtc/safe-core-sdk/issues"
+    "url": "https://github.com/rollna/safe-core-sdk/issues"
   },
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/0xsambtc/safe-core-sdk#readme",
+  "homepage": "https://github.com/rollna/safe-core-sdk#readme",
   "devDependencies": {
     "@gnosis.pm/safe-contracts-v1.3.0": "npm:@gnosis.pm/safe-contracts@1.3.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.6",
